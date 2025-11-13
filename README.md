@@ -77,18 +77,6 @@ docker-compose up --build
 
 ---
 
-## 🤝 Contributing
-
-Feel free to fork this repo, open issues, and submit pull requests.
-
----
-
-## 👨‍💻 Author
-
-Made with ❤️ by Misbah
-
----
-
 ## 😇 Connect
 
 Feel free to connect:
