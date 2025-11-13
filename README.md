@@ -80,5 +80,5 @@ docker-compose up --build
 ## 😇 Connect
 
 Feel free to connect:
-- [Email](mailto:misbahullahsheriff@gmail.com)
-- [LinkedIN](https://www.linkedin.com/in/mohammed-misbahullah-sheriff/)
+- [Email](anchalpatel086@gmail.com)
+- [LinkedIN]((http://www.linkedin.com/in/anchal-devi-032a83378)/)
