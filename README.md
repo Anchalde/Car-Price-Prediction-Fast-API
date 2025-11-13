@@ -75,10 +75,3 @@ docker-compose up --build
 3. Create a new Web Service on Render
 4. Include environment variables
 
----
-
-## 😇 Connect
-
-Feel free to connect:
-- [Email](anchalpatel086@gmail.com)
-- [LinkedIN]((http://www.linkedin.com/in/anchal-devi-032a83378)/)
